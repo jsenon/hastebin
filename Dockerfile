@@ -9,7 +9,7 @@ RUN git clone https://github.com/seejohnrun/haste-server.git /opt/haste
 WORKDIR /opt/haste
 
 RUN rm /opt/haste/about.md
-ADD conf/about.md /opt/haste/
+ADD conf/about.MD /opt/haste/
 
 RUN npm install
 
