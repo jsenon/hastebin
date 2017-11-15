@@ -1,5 +1,5 @@
 FROM node
-LABEL version="1.1"
+LABEL version="1.2"
 LABEL description="Haste is the prettiest, easiest to use pastebin ever made"
 LABEL maintainer="julien.senon@gmail.com"
 

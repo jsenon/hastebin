@@ -40,7 +40,7 @@
 
 
   "documents": {
-    "about": "./about.md"
+    "about": "/opt/haste/about.MD"
   }
 
 }
